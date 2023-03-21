@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdessamad</h1>
 <h3 align="center">Student & Free Time Developer</h3>
 
-- 🔭 I’m currently working on **Building a website for my school's robotics team and developing a game using Unity**
+- 🔭 I’m currently working on **Building a website for my school's robotics team**
 
 - 👯 I'm always open to collaborating on new projects **.**
 
