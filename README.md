@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently working on **Building a website for my school's robotics team and developing a game using Unity**
 
+- 👯 I'm always open to collaborating on new projects
+
+- 🤝 feel free to reach out to me if you have any interesting ideas
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/abdessama.d_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdessama.d_" height="30" width="40" /></a>
